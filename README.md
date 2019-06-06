@@ -7,6 +7,7 @@ Aside from the code here, there are a number of other resources to help you lear
 ## Expressions
 
 - [MotionScript.com](http://www.motionscript.com/) — legendary expressions and scripting resource by Dan Ebberts
+- [Adobe After Effects Reference](https://buildmedia.readthedocs.org/media/pdf/after-effects-expressions-guide/latest/after-effects-expressions-guide.pdf) 
 - *[After Effects Expressions](http://www.amazon.com/gp/product/024080936X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=024080936X&linkCode=as2&tag=opticalpodcast-20&linkId=XTPVQTKOURWFEKRN)* book by Marcus Geduld
 - Adobe [Expression Basics](https://helpx.adobe.com/after-effects/using/expression-basics.html), [Expression Language Reference](https://helpx.adobe.com/after-effects/using/expression-language-reference.html), and [Expression Examples](https://helpx.adobe.com/after-effects/using/expression-examples.html)
 - Creative Cow [After Effects Expressions Forum](http://forums.creativecow.net/adobe_after_effects_expressions)
